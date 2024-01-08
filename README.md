@@ -30,9 +30,11 @@ make
 bash/Terminal
 
 ./morse
+
 -Follow the on-screen instructions to select the desired conversion type and input the string to be converted.
 
 -Cleaning Up
+
 -To remove compiled files, run:
 
 bash/Terminal
