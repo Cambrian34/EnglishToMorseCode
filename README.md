@@ -21,12 +21,14 @@ This program converts Morse code to English and vice versa. It includes function
 -To compile the program, run:
 
 bash/Terminal
+
 make
 
 -Running the Program
 -After compilation, execute the program with:
 
 bash/Terminal
+
 ./morse
 -Follow the on-screen instructions to select the desired conversion type and input the string to be converted.
 
@@ -34,4 +36,5 @@ bash/Terminal
 -To remove compiled files, run:
 
 bash/Terminal
+
 make clean
